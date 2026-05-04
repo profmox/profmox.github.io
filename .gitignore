@@ -1,0 +1,8 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Per GitHub docs, ignore Bundler lockfile so GitHub Pages can resolve gems on its own.
+Gemfile.lock
